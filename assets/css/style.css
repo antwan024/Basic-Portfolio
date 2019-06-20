@@ -1,0 +1,20 @@
+.header-name {
+    background-color: #4aaaa5;
+    float: left;
+}
+
+.links {
+    float: right;
+}
+
+.main {
+    clear: left;
+}
+
+#myimage{
+    float: left;
+}
+
+.footer {
+    text-align: center;
+}
