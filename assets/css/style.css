@@ -7,7 +7,7 @@
     float: right;
 }
 
-.main {
+.content {
     clear: left;
 }
 
@@ -17,4 +17,14 @@
 
 .footer {
     text-align: center;
+    color: white;
+    background-color: #666666;
+
 }
+
+.main {
+    width: 960px;
+    margin: 0 auto;
+   }
+}
+
