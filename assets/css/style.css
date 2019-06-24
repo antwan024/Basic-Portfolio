@@ -58,6 +58,7 @@
 }
 
 .footer {
+    clear: both;
     text-align: center;
     color: white;
     background-color: #666666;
@@ -71,10 +72,22 @@
     margin: 0 auto;
    }
 
+
 .portfolio {
-    padding: 10px;
+    height: 200px;
+    width: 200px;
+    /* background-image: url("../images/port5.jpg"); */
+    text-align: center;
+    vertical-align: bottom;
+    display: table-cell;
+    
+   
 }
 
+.portfolioText {
+    background-color: #4aaaa5;
+    color: white;
+}
 
 
 
