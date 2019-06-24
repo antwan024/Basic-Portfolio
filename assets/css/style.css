@@ -1,7 +1,6 @@
 .banner {
-    background-color: white;
-    /* padding: 5px; */
-    margin: 0px;
+    background-color: #ffffff;
+    
     
     
 }
@@ -10,10 +9,9 @@
     
     width: 960px;
     margin: 0 auto;
-    background-color: #ffffff;
-    align-content: center;
     padding-bottom: 80px;
     padding-top: 0%;
+    border: 10px;
 }
 
 .header-name {
@@ -63,7 +61,6 @@
     color: white;
     background-color: #666666;
     padding-top: 80px;
-    /* padding-bottom: 1px; */
     height: 7%;
 }
 
@@ -77,8 +74,10 @@
     height: 200px;
     width: 200px;
     text-align: center;
-    vertical-align: bottom;
     display: table-cell;
+    margin: 20px 20px 20px 20px;
+    display: inline-block;
+    
     
    
 }
@@ -86,6 +85,8 @@
 .portfolioText {
     background-color: #4aaaa5;
     color: white;
+    margin-top: 150px;
+    
 }
 
 
